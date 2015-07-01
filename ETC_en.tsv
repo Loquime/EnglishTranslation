@@ -8002,11 +8002,11 @@ ETC_20150317_008001	All Stats ▲1
 ETC_20150317_008002	Earth Attribute Damage ▲12
 ETC_20150317_008003	Riena Set
 ETC_20150317_008004	Fire Attribute Resistance ▲16
-ETC_20150317_008005	N/A
-ETC_20150317_008006	N/A
-ETC_20150317_008007	N/A
-ETC_20150317_008008	N/A
-ETC_20150317_008009	N/A
+ETC_20150317_008005	The use of skills ready in the game
+ETC_20150317_008006	The Not hotel skills ready until the packet is coming
+ETC_20150317_008007	Overkill experience value acquisition amount ( 0-2 )
+ETC_20150317_008008	The importance of the angle at the time of automatic target ( -10000 ~ -1000 )
+ETC_20150317_008009	The importance of automatic target city ( -100 to -1000 )
 ETC_20150317_008010	N/A
 ETC_20150317_008011	N/A
 ETC_20150317_008012	N/A
