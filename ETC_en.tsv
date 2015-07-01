@@ -1675,7 +1675,7 @@ ETC_20150317_001674	The customer is not a CBT user.
 ETC_20150317_001675	It has been banned by the administrator.
 ETC_20150317_001676	{Name} ({Mapname} / channel {ChNo})
 ETC_20150317_001677	This skill cannot be crafted.
-ETC_20150317_001678	
+ETC_20150317_001678 {gr gradation2} {s19} {ol} {b} {# bc952b} Right-click : If the sale / purchase button {/} {/} {nl} item that you want to multiple sell is to hold down the right-click please. {Nl} You can be the whole of the sale during the double click . {Nl} {nl} {b} {# bc952b} left click : Cancel / return button { /} { /} If you want to {nl} was an item to more than cancel , please press the left click long. And {nl} You can be the whole of the sale to double left click .
 ETC_20150317_001679	You do not have enough Potential to enhance this item
 ETC_20150317_001680	This item cannot be enhanced
 ETC_20150317_001681	Can no longer be enhanced
